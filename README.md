@@ -1,6 +1,6 @@
 # Smart Home WPF UI Template
 
-![Smart Home WPF UI Template](Images/smart-house.png)
+<!-- ![Smart Home WPF UI Template](Images/smart-house.png) -->
 
 Welcome to the Smart Home WPF UI Template, a versatile user interface template for building an IoT control panel for your smart home devices. This template is designed to help you create a modern and intuitive user interface for controlling and monitoring your IoT devices within your home. It is built using Windows Presentation Foundation (WPF), making it compatible with the Visual Studio development environment.
 
@@ -27,7 +27,7 @@ To get started with this Smart Home WPF UI Template, follow these steps:
 1. Clone this repository to your local machine using your preferred Git client or download it as a ZIP file and extract it.
 
    ```sh
-   git clone https://github.com/yourusername/smart-home-wpf-ui-template.git
+   git clone git@github.com:M7amd7amada/SmartHomeWPF.git
    ```
 
 ### Open in Visual Studio
